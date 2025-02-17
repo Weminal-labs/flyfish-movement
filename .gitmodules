@@ -1,0 +1,3 @@
+[submodule "fly-explorer-chat"]
+	path = fly-explorer-chat
+	url = https://github.com/lochoang174/fly-explorer.git
