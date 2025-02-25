@@ -1,3 +1,6 @@
 [submodule "fly-explorer-chat"]
 	path = fly-explorer-chat
 	url = https://github.com/lochoang174/fly-explorer.git
+[submodule "eliza_deploy"]
+	path = eliza_deploy
+	url = https://github.com/AnhQuan2004/eliza_deploy.git
