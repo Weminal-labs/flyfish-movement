@@ -4,3 +4,9 @@
 [submodule "eliza_deploy"]
 	path = eliza_deploy
 	url = https://github.com/AnhQuan2004/eliza_deploy.git
+[submodule "flyfish-extension"]
+	path = flyfish-extension
+	url = https://github.com/Weminal-labs/flyfish-extension
+[submodule "flyfish-agent-movement"]
+	path = flyfish-agent-movement
+	url = https://github.com/tung-lee/flyfish-agent-movement
